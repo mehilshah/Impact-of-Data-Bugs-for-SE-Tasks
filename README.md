@@ -198,12 +198,15 @@ Each model directory includes a **self-contained README** describing:
 If you use this repository or build upon this work, please cite:
 
 ```bibtex
-@article{shah2025databugs,
-  title     = {Understanding the Impact of Data Bugs in Deep Learning for Software Engineering},
-  author    = {Shah, Mehil B. and Rahman, Mohammad Masudur and Khomh, Foutse},
-  journal   = {Empirical Software Engineering},
-  year      = {2025},
-  publisher = {Springer}
+@article{shah2025towards,
+  title={Towards understanding the impact of data bugs on deep learning models in software engineering},
+  author={Shah, Mehil B and Rahman, Mohammad Masudur and Khomh, Foutse},
+  journal={Empirical Software Engineering},
+  volume={30},
+  number={6},
+  pages={168},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
